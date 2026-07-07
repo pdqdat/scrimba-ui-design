@@ -1,0 +1,14 @@
+{
+  "name": "Scrim-s017odd",
+  "description": "https://scrimba.com/learn-ui-design-c024/~0q",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "latest"
+  },
+  "devDependencies": {}
+}
